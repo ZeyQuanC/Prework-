@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hello world (prework)</string>
+    <string name="Intro">hello world! my name is zeyquan and i enjoy software design and marvel</string>
+    <string name="button_text">Say Hello</string>
+</resources>
